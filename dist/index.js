@@ -121,7 +121,4 @@ function getDetails(url) {
         return details;
     });
 }
-module.exports = {
-    getDetails,
-};
 //# sourceMappingURL=index.js.map

@@ -1,10 +1,10 @@
 {
   "name": "arxiv-scraper",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Scrape arxiv paper details",
   "main": "dist/index.js",
   "scripts": {
-    "start": "tsc && node dist/index.js",
+    "build": "tsc",
     "dev": "nodemon --watch 'src/**/*.ts' --exec 'ts-node' src/index.ts"
   },
   "keywords": [],

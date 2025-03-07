@@ -81,7 +81,3 @@ export async function getDetails(url: string){
     return details;
     
 } 
-
-module.exports = {
-    getDetails,
-};
