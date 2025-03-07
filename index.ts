@@ -1,5 +1,3 @@
 import { getDetails } from "./src"
 
-module.exports = {
-    getDetails,
-};
+export default getDetails;

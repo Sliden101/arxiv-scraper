@@ -1,4 +1,5 @@
 # arxiv-scraper
+Scrape arxiv paper details
 
 ## Installation
 

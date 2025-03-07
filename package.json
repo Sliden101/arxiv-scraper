@@ -1,7 +1,7 @@
 {
   "name": "arxiv-scraper",
-  "version": "1.0.3",
-  "description": "Scrape paper details",
+  "version": "1.0.4",
+  "description": "Scrape arxiv paper details",
   "main": "index.ts",
   "scripts": {
     "start": "tsc && node dist/index.js",
