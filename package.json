@@ -1,6 +1,6 @@
 {
   "name": "arxiv-scraper",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Scrape paper details",
   "main": "index.ts",
   "scripts": {
