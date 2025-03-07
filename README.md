@@ -1,7 +1,5 @@
 # arxiv-scraper
 
-# Getting Started
-
 ## Installation
 
 ```sh

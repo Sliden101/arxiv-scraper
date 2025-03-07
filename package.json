@@ -1,8 +1,8 @@
 {
   "name": "arxiv-scraper",
-  "version": "1.0.1",
-  "description": "",
-  "main": "index.js",
+  "version": "1.0.2",
+  "description": "Scrape paper details",
+  "main": "index.ts",
   "scripts": {
     "start": "tsc && node dist/index.js",
     "dev": "nodemon --watch 'src/**/*.ts' --exec 'ts-node' src/index.ts"
@@ -20,5 +20,9 @@
   "dependencies": {
     "axios": "^1.8.2",
     "cheerio": "^1.0.0"
+  },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/Sliden101/arxiv-scraper.git"
   }
 }
